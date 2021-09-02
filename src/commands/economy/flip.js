@@ -1,3 +1,4 @@
+Source code by Android Discord 🖕
 const Discord = require("discord.js");
 const fs = require('fs');
 const numeral = require('numeral');
